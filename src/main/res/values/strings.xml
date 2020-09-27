@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+
+    <string name="about_text">Covid-19 Live Tracker\n\nDeveloped By: Darshan Gupta
+    </string>
+    <string name="ok">OK</string>
+</resources>
